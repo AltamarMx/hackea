@@ -1,0 +1,7 @@
+project:
+  title: "Hackea tu escuela"
+  render:
+    - index.qmd
+
+execute:
+  freeze: auto
